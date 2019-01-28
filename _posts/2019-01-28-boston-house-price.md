@@ -49,12 +49,12 @@ from patsy import *
     
      - 정규선형회귀 미적용 모델 : 0.14787 Score , 4400 그룹 중 2637 rank 
 
-![1](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/1.png)
+![1](https://user-images.githubusercontent.com/41605276/51812110-79f4e280-22f3-11e9-8471-e9c7e4b37ee5.png)
 
       - 정규선형회귀 적용모델 : 0.14632 Score / 4400 그룹 중 2560 rank 
       (alpha = 0.00009를 적용한 LASSO 모델)
 
-![2](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/2.png)
+![2](https://user-images.githubusercontent.com/41605276/51812122-87aa6800-22f3-11e9-89a7-8b51cef981ca.png)
 
 - 모델구성 기준
 
@@ -391,8 +391,7 @@ plt.scatter(df["GrLivArea"][523], df["SalePrice"][523], s=200, c='r', alpha = 0.
 plt.scatter(df["GrLivArea"][1298], df["SalePrice"][1298], s=200, c='r', alpha = 0.5)
 ```
 
-![boston_house_price_27_1](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_27_1.png)
-
+![boston_house_price_27_1](https://user-images.githubusercontent.com/41605276/51812139-998c0b00-22f3-11e9-9f7f-0db5c91c4051.png)
 
 
 ```python
@@ -428,7 +427,7 @@ df = df.drop(df.index[523])
 ### [ 선형회귀 예측모델 구현결과 ] 
 -> 종속변수 SalePrice에 대한 StatsModels R스타일 선형회귀분석모델 도출
 
-![3](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/3.png)
+![3](https://user-images.githubusercontent.com/41605276/51812156-ab6dae00-22f3-11e9-8da2-79d6e3426ff0.png)
 
 #### 1) 모델구성 :  'OverallQual' 등 15개의 독립변수 조합
 
@@ -764,7 +763,7 @@ plt.show()
 ```
 
 
-![boston_house_price_42_0](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_42_0.png)
+![boston_house_price_42_0](https://user-images.githubusercontent.com/41605276/51812169-bc1e2400-22f3-11e9-8a48-ca2d589cf8e0.png)
 
 
 - 실제값과 예측값의 상관계수
@@ -791,6 +790,6 @@ sp.stats.probplot(result.resid, plot=plt)
 plt.show()
 ```
 
-![boston_house_price_46_0](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_46_0.png)
+![boston_house_price_46_0](https://user-images.githubusercontent.com/41605276/51812178-c809e600-22f3-11e9-8531-2ff52cf67e96.png)
 
 ### V 결론 : 신뢰성과 Performance를 균형있게 고려한 선형회귀 예측모델 구현 달성
