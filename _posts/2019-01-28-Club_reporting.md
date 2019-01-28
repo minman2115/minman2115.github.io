@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title: "웹크롤링 미니프로젝트 결과"
+title: "웹크롤링 미니팀프로젝트 결과"
 tags: [팀프로젝트, 웹크롤링]
 comments: true
 ---
