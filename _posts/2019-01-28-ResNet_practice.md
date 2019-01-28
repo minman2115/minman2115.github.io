@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "ResNet 구현실습"
 tags: [딥러닝]
