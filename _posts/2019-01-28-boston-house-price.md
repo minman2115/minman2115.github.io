@@ -49,12 +49,12 @@ from patsy import *
     
      - 정규선형회귀 미적용 모델 : 0.14787 Score , 4400 그룹 중 2637 rank 
 
-<img src=https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/1.png>
+![1](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/1.png)
 
       - 정규선형회귀 적용모델 : 0.14632 Score / 4400 그룹 중 2560 rank 
       (alpha = 0.00009를 적용한 LASSO 모델)
 
-<img src=https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/2.png>
+![2](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/2.png)
 
 - 모델구성 기준
 
@@ -391,15 +391,7 @@ plt.scatter(df["GrLivArea"][523], df["SalePrice"][523], s=200, c='r', alpha = 0.
 plt.scatter(df["GrLivArea"][1298], df["SalePrice"][1298], s=200, c='r', alpha = 0.5)
 ```
 
-
-
-
-    <matplotlib.collections.PathCollection at 0x1e7212cf588>
-
-
-
-
-<img src=https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_27_1.png>
+![boston_house_price_27_1](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_27_1.png)
 
 
 
@@ -436,7 +428,7 @@ df = df.drop(df.index[523])
 ### [ 선형회귀 예측모델 구현결과 ] 
 -> 종속변수 SalePrice에 대한 StatsModels R스타일 선형회귀분석모델 도출
 
-<img src=https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/3.png>
+![3](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/3.png)
 
 #### 1) 모델구성 :  'OverallQual' 등 15개의 독립변수 조합
 
@@ -772,7 +764,7 @@ plt.show()
 ```
 
 
-<img src=https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_42_0.png>
+![boston_house_price_42_0](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_42_0.png)
 
 
 - 실제값과 예측값의 상관계수
@@ -799,13 +791,6 @@ sp.stats.probplot(result.resid, plot=plt)
 plt.show()
 ```
 
-
-<img src="https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_46_0.png" />
-
+![boston_house_price_46_0](https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_46_0.png)
 
 ### V 결론 : 신뢰성과 Performance를 균형있게 고려한 선형회귀 예측모델 구현 달성
-
-
-```python
-
-```
