@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Classification 팀프로젝트 결과"
-tags: [머신, Classification, 팀프로젝트]
+tags: [머신러닝, Classification, 팀프로젝트]
 comments: true
 ---
 
