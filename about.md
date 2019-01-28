@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-머신러닝에 관심이 많은 학생입니다!
+데이터 사이언스에 관심이 많은 학생입니다!
 
 ### More Information
 
