@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "CNN 구현연습"
 tags: [딥러닝]
