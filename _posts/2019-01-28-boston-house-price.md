@@ -49,12 +49,12 @@ from patsy import *
     
      - 정규선형회귀 미적용 모델 : 0.14787 Score , 4400 그룹 중 2637 rank 
 
-<img src="https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/1.png">
+<img src=https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/1.png>
 
       - 정규선형회귀 적용모델 : 0.14632 Score / 4400 그룹 중 2560 rank 
       (alpha = 0.00009를 적용한 LASSO 모델)
 
-<img src="https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/2.png">
+<img src=https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/2.png>
 
 - 모델구성 기준
 
@@ -399,7 +399,7 @@ plt.scatter(df["GrLivArea"][1298], df["SalePrice"][1298], s=200, c='r', alpha = 
 
 
 
-<img src="https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_27_1.png" />
+<img src=https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_27_1.png>
 
 
 
@@ -436,7 +436,7 @@ df = df.drop(df.index[523])
 ### [ 선형회귀 예측모델 구현결과 ] 
 -> 종속변수 SalePrice에 대한 StatsModels R스타일 선형회귀분석모델 도출
 
-<img src="https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/3.png" />
+<img src=https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/3.png>
 
 #### 1) 모델구성 :  'OverallQual' 등 15개의 독립변수 조합
 
@@ -772,7 +772,7 @@ plt.show()
 ```
 
 
-<img src="https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_42_0.png" />
+<img src=https://github.com/minman2115/linear_regression_analysis_team_project/blob/master/boston_house_price_42_0.png>
 
 
 - 실제값과 예측값의 상관계수
