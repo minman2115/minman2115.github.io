@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Classification 개인프로젝트 결과"
 tags: [머신, Classification, 개인프로젝트]
