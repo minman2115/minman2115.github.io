@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "선형회귀모형 구현연습"
+title: "선형회귀모형 구현연습2"
 tags: [머신러닝, 선형회귀분석]
 comments: true
 ---
