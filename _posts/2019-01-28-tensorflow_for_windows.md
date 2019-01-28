@@ -1,11 +1,11 @@
-﻿---
+---
 layout: post
 title: "딥러닝을 위한 환경설정법"
 tags: [딥러닝, 환경설정]
 comments: true
 ---
 
-'윈도우즈 운영체제에서 텐서플로우 활용을 위한 아나콘다 가상환경 구축' 방법
+'윈도우즈 운영체제에서 딥러닝을 위한 아나콘다 가상환경 구축' 방법
 
 #### step 1) cuda 9.0 설치
 - https://developer.nvidia.com/cuda-90-download-archive 접속
