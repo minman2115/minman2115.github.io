@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "정규화 선형회귀 기초이론 핵심"
-tags: [머신러닝]
+tags: [머신러닝, 수학기초]
 comments: true
 ---
 
