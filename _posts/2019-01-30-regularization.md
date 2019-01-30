@@ -2,8 +2,10 @@
 layout: post
 title: "정규화 선형회귀 기초이론 요약"
 tags: [머신러닝]
-comments: false
+comments: true
 ---
+
+...
 
 #### [정규화 선형회귀의 목적]
 
