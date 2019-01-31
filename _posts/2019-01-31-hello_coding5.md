@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "탐욕알고리즘 기초개념"
 tags: [Python, 자료구조 알고리즘]
