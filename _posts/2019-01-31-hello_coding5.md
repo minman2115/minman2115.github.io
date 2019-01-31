@@ -18,7 +18,7 @@ comments: true
 - 각각의 단계에서 최적의 수를 찾는 알고리즘
 - 각 단계에서 국소최적회(local optimal solution)을 찾음으로써 최종적으로는 전역 최적해(globally optional solution)을 구하는 알고리즘
 
-<예시>
+### # 예시
 
 1. 수업시간표 짜기
 
