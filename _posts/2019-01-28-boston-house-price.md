@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "선형회귀모델 구현 팀프로젝트 결과"
+title: "House Price 예측을 위한 선형회귀모델 구현"
 tags: [머신러닝, 선형회귀분석, 팀프로젝트]
 comments: true
 ---
 
-House Price 예측을 위한 선형회귀모델 구현
+선형회귀모델 구현 팀프로젝트 결과
 
 ```python
 # 필요한 패키지 import 하는 코드
