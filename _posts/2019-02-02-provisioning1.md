@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "프로비저닝을 위한 테라폼 환경설정 실습정리"
+title: "프로비저닝을 위한 테라폼 환경설정 실습내용 정리"
 tags: [Provisioning, terraform, AWS]
 comments: true
 ---
