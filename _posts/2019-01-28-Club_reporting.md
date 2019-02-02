@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "웹크롤링 미니팀프로젝트 결과"
+title: "Whoscored statistics 크롤링"
 tags: [팀프로젝트, 웹크롤링]
 comments: true
 ---
 
-Whoscored.com 내 특정 리그에 대한 league table data 및 team statistics를 크롤링하여 데이터프레임을 제공하는 서비스 구현
+웹크롤링 미니팀프로젝트 결과
+- Whoscored.com 내 특정 리그에 대한 league table data 및 team statistics를 크롤링하여 데이터프레임을 제공하는 서비스 구현
 
 ## Mini Project : Club Stats reporting service
 
