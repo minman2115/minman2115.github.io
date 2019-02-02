@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Classification 개인프로젝트 결과"
+title: "Titanic호 생존자 예측을 위한 분류모델 구현"
 tags: [머신러닝, Classification, 개인프로젝트]
 comments: true
 ---
 
-Titanic호 생존자 예측을 위한 분류모델 구현
+Classification 개인프로젝트 결과
 
 ```python
 # 파이썬 코드작성을 위한 패키지 import 하는 명령어로 필히 실행바랍니다.
