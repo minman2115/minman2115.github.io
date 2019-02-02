@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Classification 팀프로젝트 결과"
+title: "'동물보호센터 유기동물 최종 처분결과' 예측 모델링"
 tags: [머신러닝, Classification, 팀프로젝트]
 comments: true
 ---
 
-'동물보호센터 내 특정 유기동물에 대한 최종 처분결과' 예측 모델링
+Classification 팀프로젝트 결과
 
 # Shelter Animal Outcomes Classification
 
