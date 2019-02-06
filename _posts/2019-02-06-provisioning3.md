@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ""프로비저닝을 이용한 EC2 인스턴스 생성 실습 3-2"
+title: "프로비저닝을 이용한 EC2 인스턴스 생성 실습 3-2"
 tags: [Provisioning, terraform, AWS]
 comments: true
 ---
