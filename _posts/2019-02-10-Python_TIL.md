@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "Python TIL (20180731)"
 tags: [Python]
