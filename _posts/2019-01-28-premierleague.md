@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "'scrapy'를 이용한 프리미어리거 개인통산기록 "
+title: "'scrapy'를 이용한 프리미어리거 개인통산기록 웹크롤링"
 tags: [개인프로젝트, 웹크롤링]
 comments: true
 ---
