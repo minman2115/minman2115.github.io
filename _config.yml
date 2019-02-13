@@ -26,8 +26,6 @@ navigation:
     url: /
   - name: About
     url: /about
-  - name: Archive
-    url: /archive
   - name: Github
     url: https://github.com/minman2115
 
