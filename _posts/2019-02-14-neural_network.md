@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: "신경망 구조 기초이론 요약"
 tags: [딥러닝]
