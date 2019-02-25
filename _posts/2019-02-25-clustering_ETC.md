@@ -1,8 +1,8 @@
 ---
-layout post
-title "기타 클러스터링 기법 기초이론 요약"
-tags [머신러닝]
-comments true
+layout: post
+title: "기타 클러스터링 기법 기초이론 요약"
+tags: [머신러닝]
+comments: true
 ---
 
 .
