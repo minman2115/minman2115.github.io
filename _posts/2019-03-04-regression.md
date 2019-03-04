@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "확률론적 선형회귀모형 기초이론 요약"
-tags: [머신러닝]
+tags: []
 comments: true
 ---
 
