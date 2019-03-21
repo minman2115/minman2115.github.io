@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "다중공선성"
-tags: [선형회귀분석, 머신러닝]
+title: "다중공선성 "
+tags: [선형회귀분석]
 comments: true
 ---
 
