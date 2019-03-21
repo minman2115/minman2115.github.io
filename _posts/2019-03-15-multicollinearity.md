@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "다중공선성 "
+title: "다중공선성 기초이론"
 tags: [선형회귀분석]
 comments: true
 ---
