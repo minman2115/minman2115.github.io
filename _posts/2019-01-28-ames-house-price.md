@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "House Price 예측을 위한 선형회귀모델 구현"
+title: "Ames House Price 예측을 위한 선형회귀모델 구현"
 tags: [머신러닝, 선형회귀분석, 팀프로젝트]
 comments: true
 ---
@@ -20,7 +20,7 @@ from patsy import *
 
 #  회귀분석 프로젝트 수행결과
 
-> House Price 예측을 위한 선형회귀모델 구현
+> Ames House Price 예측을 위한 선형회귀모델 구현
 
 ## [  개 요 ]
 
