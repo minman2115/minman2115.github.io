@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "나이브 베이즈 모형을 이용한 텍스트 데이터 감성분석 예시"
-tags: [머신러닝]
+tags: [감성분석]
 comments: true
 ---
 
