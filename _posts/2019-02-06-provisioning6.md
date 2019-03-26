@@ -1,15 +1,13 @@
----
+﻿---
 layout: post
 title: "remote provisioner 사용실습 2-1"
-tags: [Provisioning, terraform, AWS]
+tags: [terraform]
 comments: true
 ---
 
 .
 
-#### '패스트캠퍼스'에서 공부한 내용을 필기노트 형식으로 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
+#### # 학습 시 참고 URL : https://gitlab.com/radajin
 	
 #### # user_data를 이용한 로컬 프로비저너 사용예시
 

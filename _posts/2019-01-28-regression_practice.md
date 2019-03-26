@@ -1,16 +1,13 @@
----
+﻿---
 layout: post
-title: "선형회귀모형 구현연습2"
-tags: [머신러닝, 선형회귀분석]
+title: "선형회귀모형 구현실습2"
+tags: [선형회귀분석]
 comments: true
 ---
 
 선형회귀모형 관련 연습문제 풀이
 
-#### '패스트캠퍼스'에서 공부한 내용을 필기노트 형식으로 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-- 자료인용 출처 : https://datascienceschool.net
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 ### 1. 다음은 경력과 연봉간의 관계를 조사한 데이터이다. 차후 나오는 문제들에 대한 풀이를 하시오
 

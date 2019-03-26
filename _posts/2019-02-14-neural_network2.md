@@ -1,20 +1,16 @@
----
+﻿---
 layout: post
-title: "신경망 작동원리 기초이론 요약"
+title: "신경망 작동원리 기초개념"
 tags: [딥러닝]
 comments: true
 ---
 
 .
 
-#### # '패스트캠퍼스'에서 공부한 내용을 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-- 참고자료 출처 : https://datascienceschool.net
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 
-
-### # 신경망 작동원리 기초이론
+### # 신경망 작동원리
 
 - 신경망에서 가중치를 표기할때 주의해야할 점이 있다. $$\ w^{(l)}_{j,i} $$ 와 같이 표기해야 한다. l-1 번째 계층의 i번째 뉴런과 l번째 계층에서 j번째 뉴련을 연결하는 가중치라는 의미이다.
 

@@ -1,15 +1,13 @@
----
+﻿---
 layout: post
 title: "프로비저닝을 이용한 EC2 인스턴스 생성 실습 3-1"
-tags: [Provisioning, terraform, AWS]
+tags: [terraform]
 comments: true
 ---
 
 .
 
-#### '패스트캠퍼스'에서 공부한 내용을 필기노트 형식으로 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
+#### # 학습 시 참고 URL : https://gitlab.com/radajin
 
 ### # 간단한 EC2 인스턴스 생성
 

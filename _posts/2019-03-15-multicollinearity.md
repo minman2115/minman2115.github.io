@@ -1,17 +1,13 @@
----
+﻿---
 layout: post
-title: "다중공선성 기초이론"
+title: "다중공선성 기초개념"
 tags: [선형회귀분석]
 comments: true
 ---
 
 .
 
-#### # '패스트캠퍼스'에서 공부한 내용을 정리한 것으로 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-
-- 참고자료 출처 : https://datascienceschool.net
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 ### # 다중공선성
 

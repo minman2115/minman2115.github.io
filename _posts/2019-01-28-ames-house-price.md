@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: "Ames House Price 예측을 위한 선형회귀모델 구현"
-tags: [머신러닝, 선형회귀분석, 팀프로젝트]
+tags: [선형회귀분석, 팀프로젝트]
 comments: true
 ---
 

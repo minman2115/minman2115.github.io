@@ -1,20 +1,16 @@
 ﻿---
 layout: post
-title: "퍼셉트론 기초이론"
-tags: [머신러닝]
+title: "퍼셉트론 기초개념"
+tags: [Classification]
 comments: true
 ---
 
 .
 
 
-#### # '패스트캠퍼스'에서 공부한 내용을 정리한 것으로 오류가 있을 수 있습니다.
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-
-- 참고자료 출처 : https://datascienceschool.net
-
-### # 퍼셉트론 기초이론
+### # 퍼셉트론
 
 - 퍼셉트론은 가장 전통적이고 단순한 형태의 판별함수 분류모형이다.
 

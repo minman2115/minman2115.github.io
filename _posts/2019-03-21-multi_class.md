@@ -1,21 +1,17 @@
----
+﻿---
 layout: post
-title: "다중클래스 분류문제 기초이론"
-tags: [머신러닝]
+title: "다중클래스 분류문제 기초개념"
+tags: [Classification]
 comments: true
 ---
 
 .
 
 
-#### # '패스트캠퍼스'에서 공부한 내용을 정리한 것으로 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-
-- 참고자료 출처 : https://datascienceschool.net
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 
-### # 다중클래스 분류문제 기초이론
+### # 다중클래스 분류문제
 
 - 분류문제에서 고려해야 할 사항중에 하나가 다중클래스 분류문제이다. 구별해야 할 클래스가 0아니면 1 또는 true 아니면 false 등 두개중에 하나를 분류하는 것을 Binary Classifiaction이라고 한다. 
 

@@ -1,16 +1,13 @@
----
+﻿---
 layout: post
-title: "정규화 선형회귀 기초이론 요약"
-tags: [선형회귀분석, 머신러닝]
+title: "정규화 선형회귀 기초개념"
+tags: [선형회귀분석]
 comments: true
 ---
 
 ...
 
-#### '패스트캠퍼스'에서 공부한 내용을 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-- 자료인용 출처 : https://datascienceschool.net
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 #### [정규화 선형회귀의 목적]
 

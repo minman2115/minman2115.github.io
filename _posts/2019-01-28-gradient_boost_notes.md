@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "그레디언트 부스트 모델"
-tags: [머신러닝]
+tags: [Classification]
 comments: true
 ---
 
 그레디언트 부스트 모델 이론 및 간략한 사용법
+
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 1. 개념요약 : 
    1) 기존의 위원회 멤버 외에 '새로운 멤버'를 찾을때 그레디언트 디센트 방법으로 최적의 함수를

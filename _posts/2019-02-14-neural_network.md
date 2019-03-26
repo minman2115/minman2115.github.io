@@ -1,20 +1,16 @@
----
+﻿---
 layout: post
-title: "신경망 구조 기초이론 요약"
+title: "신경망 구조 기초개념"
 tags: [딥러닝]
 comments: true
 ---
 
 .
 
-#### # '패스트캠퍼스'에서 공부한 내용을 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-- 참고자료 출처 : https://datascienceschool.net
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 
-
-### # 신경망 구조 기초이론
+### # 신경망 구조
 
 - 신경망은 크게봐서 basis function의 형태를 모수값으로 변화시킬 수 있는 함수모형이다. 그 이유는 비선형적인 데이터들을 처리하기 위함이다.
 

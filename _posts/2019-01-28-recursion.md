@@ -1,15 +1,12 @@
----
+﻿---
 layout: post
-title: "알고리즘 풀이 연습"
+title: "recursion 개념을 이용한 알고리즘 연습문제 풀이"
 tags: [Python]
 comments: true
 ---
 
-recursion 개념을 이용한 연습문제 풀이
+.
 
-#### '패스트캠퍼스'에서 공부한 내용을 필기노트 형식으로 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
 
 ![2](https://user-images.githubusercontent.com/41605276/51818756-5cd00c00-2313-11e9-85ea-6d2e4874b067.png)
 

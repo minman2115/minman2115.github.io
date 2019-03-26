@@ -1,19 +1,16 @@
----
+﻿---
 layout: post
-title: "CNN 구현연습"
+title: "CNN 구현실습"
 tags: [딥러닝]
 comments: true
 ---
 
-올리베티 이미지 분류모델 구현연습
+올리베티 이미지 분류모델 구현실습
 
 1) 단순 뉴럴네트워로 올리베티 이미지 분류모델 구현
 2) CNN을 이용한 올리베티 이미지 분류모델 구현
 
-#### '패스트캠퍼스'에서 공부한 내용을 필기노트 형식으로 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-- 자료인용 출처 : https://datascienceschool.net
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 
 ## 1. 단순 신경망 사용 시

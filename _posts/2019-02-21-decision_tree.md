@@ -1,18 +1,14 @@
----
+﻿---
 layout: post
-title: "의사결정나무 기초이론 요약"
-tags: [머신러닝]
+title: "의사결정나무 기초개념"
+tags: [Classification]
 comments: true
 ---
 
 .
 
 
-#### # '패스트캠퍼스'에서 공부한 내용을 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-
-- 참고자료 출처 : https://datascienceschool.net
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 ### # 의사결정나무 기초이론
 

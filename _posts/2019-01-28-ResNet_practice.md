@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "ResNet 구현실습"
 tags: [딥러닝]
@@ -7,10 +7,7 @@ comments: true
 
 ResNet 모델을 다운받아서 테스트하는 실습
 
-#### '패스트캠퍼스'에서 공부한 내용을 필기노트 형식으로 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-- 자료인용 출처 : https://datascienceschool.net
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 ### # ResNet 개요
 

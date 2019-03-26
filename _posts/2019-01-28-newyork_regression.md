@@ -1,16 +1,13 @@
----
+﻿---
 layout: post
-title: "선형회귀모형 구현연습"
-tags: [머신러닝, 선형회귀분석]
+title: "선형회귀모형 구현실습"
+tags: [선형회귀분석]
 comments: true
 ---
 
-뉴욕 레스토랑 데이터를 기반으로 선형회귀모형 관련 연습문제 풀이
+뉴욕 레스토랑 데이터 기반 선형회귀 연습문제 풀이
 
-#### '패스트캠퍼스'에서 공부한 내용을 필기노트 형식으로 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
-- 자료인용 출처 : https://datascienceschool.net
+#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 - 문제 : price는 가격을 나타내고, food, decor, service 열은 각각 음식, 데코, 서비스를 평가한 점수이며 east는 위치를 나타내는 더미변수이다. 이 데이터를 대상으로 다음 문제를 풀어라. 유의수준은 5%로 한다.
 

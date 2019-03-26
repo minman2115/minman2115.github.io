@@ -1,15 +1,13 @@
----
+﻿---
 layout: post
 title: "local provisioner 사용 실습"
-tags: [Provisioning, terraform, AWS]
+tags: [terraform]
 comments: true
 ---
 
 .
 
-#### '패스트캠퍼스'에서 공부한 내용을 필기노트 형식으로 정리한 것으로 일부 주관적이며 오류가 있을 수 있습니다.
-
-- 패스트캠퍼스 : https://www.fastcampus.co.kr
+#### # 학습 시 참고 URL : https://gitlab.com/radajinr
 
 #### step1) ec2 생성후 생성된 public ip를 ip_address.txt로 저장
 

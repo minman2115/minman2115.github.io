@@ -1,7 +1,7 @@
----
+﻿---
 layout: post
 title: "Titanic호 생존자 예측을 위한 분류모델 구현"
-tags: [머신러닝, Classification, 개인프로젝트]
+tags: [Classification, 개인프로젝트]
 comments: true
 ---
 
