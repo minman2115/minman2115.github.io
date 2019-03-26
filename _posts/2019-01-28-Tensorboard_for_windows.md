@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "windows 운영체제에서 텐서보드 사용환경 구축방법"
-tags: [딥러닝, 환경설정]
+tags: [환경설정]
 comments: true
 ---
 
