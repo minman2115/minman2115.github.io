@@ -236,7 +236,7 @@ plt.show()
 ```
 
 
-![png](kernel_SVM_files/kernel_SVM_1_0.png)
+<img width="567" alt="kernel_SVM_1_0" src="https://user-images.githubusercontent.com/41605276/55782898-3b945480-5ae8-11e9-9750-d68b2ba0ade3.png">
 
 
 - 다항커널이랑 시그모이드 커널의 계수만 보고 모양이 어떻게 나올지 예측하는 것은 불가능하다. 그러나 RBF 커널은 대강 예측이 가능하다. 위의 그림처럼 감마값이 커질수록 커널에서 사용하는 커널함수 즉 유사도 측정하는 함수의 폭이 점점 작아진다.
