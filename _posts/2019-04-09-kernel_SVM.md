@@ -223,7 +223,6 @@ y_xor = np.where(y_xor, 1, 0)
 
 plt.figure(figsize=(8, 8))
 plt.subplot(221)
-plt.title('RBF SVM different in gamma')
 plot_xor(X_xor, y_xor, SVC(kernel="rbf", gamma=1).fit(X_xor, y_xor), "gamma=1")
 plt.subplot(222)
 plot_xor(X_xor, y_xor, SVC(kernel="rbf", gamma=5).fit(X_xor, y_xor), "gamma=5")
