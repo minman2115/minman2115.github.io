@@ -7,7 +7,7 @@ comments: true
 
 ResNet 모델을 다운받아서 테스트하는 실습
 
-#### # 학습 시 참고한 URL : https://datascienceschool.net
+#### 그림, 실습코드 등 학습자료 출처 : https://datascienceschool.net
 
 ### # ResNet 개요
 

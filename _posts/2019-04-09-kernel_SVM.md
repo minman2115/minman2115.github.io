@@ -7,7 +7,7 @@ comments: true
 
 .
 
-#### # 학습 시 참고한 URL : https://datascienceschool.net
+#### 그림, 실습코드 등 학습자료 출처 : https://datascienceschool.net
 
 ### # 커널 서포트 백터머신
 

@@ -7,7 +7,7 @@ comments: true
 
 .
 
-#### # 학습시 참고 URL : https://github.com/ythwork
+#### 그림, 실습코드 등 학습자료 출처 : https://github.com/ythwork
 
 
 - 현업에서 얘기하는 링크드리스트는 대부분 더미 더블 링크드 리스트를 의미한다.

@@ -7,7 +7,7 @@ comments: true
 
 .
 
-#### # 학습시 참고 URL : https://github.com/ythwork
+#### 그림, 실습코드 등 학습자료 출처 : https://github.com/ythwork
 
 예를 들어 아래와 같은 파이썬 코드가 있다고 하자.
 

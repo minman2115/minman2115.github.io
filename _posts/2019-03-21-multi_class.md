@@ -8,7 +8,7 @@ comments: true
 .
 
 
-#### # 학습 시 참고한 URL : https://datascienceschool.net
+#### 그림, 실습코드 등 학습자료 출처 : https://datascienceschool.net
 
 
 ### # 다중클래스 분류문제

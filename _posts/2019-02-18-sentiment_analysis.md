@@ -7,7 +7,7 @@ comments: true
 
 .
 
-#### # 학습 시 참고한 URL : https://datascienceschool.net
+#### 그림, 실습코드 등 학습자료 출처 : https://datascienceschool.net
 
 
 #### # 나이브 베이즈 모형을 이용한 텍스트 데이터 감성분석 기초

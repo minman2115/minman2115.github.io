@@ -7,10 +7,10 @@ comments: true
 
 올리베티 이미지 분류모델 구현실습
 
+#### 그림, 실습코드 등 학습자료 출처 : https://datascienceschool.net
+
 1) 단순 뉴럴네트워로 올리베티 이미지 분류모델 구현
 2) CNN을 이용한 올리베티 이미지 분류모델 구현
-
-#### # 학습 시 참고한 URL : https://datascienceschool.net
 
 
 ## 1. 단순 신경망 사용 시

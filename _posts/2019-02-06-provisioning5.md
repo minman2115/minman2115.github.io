@@ -7,7 +7,7 @@ comments: true
 
 .
 
-#### # 학습 시 참고 URL : https://gitlab.com/radajinr
+#### 그림, 실습코드 등 학습자료 출처 : https://gitlab.com/radajin
 
 #### step1) ec2 생성후 생성된 public ip를 ip_address.txt로 저장
 

@@ -7,7 +7,7 @@ comments: true
 
 variable과 output을 이용하여 인스턴스 생성해보기
 
-#### # 학습 시 참고 URL : https://gitlab.com/radajin
+#### 그림, 실습코드 등 학습자료 출처 : https://gitlab.com/radajin
 
 #### step1) 디렉토리 생성 및 이동
 

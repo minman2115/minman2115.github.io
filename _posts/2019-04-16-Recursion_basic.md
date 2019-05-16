@@ -7,7 +7,7 @@ comments: true
 
 .
 
-#### # 학습시 참고 URL : https://github.com/ythwork
+#### 그림, 실습코드 등 학습자료 출처 : https://github.com/ythwork
 
 - recursion(재귀)란 함수가 호출될때 자기 자신을 호출하는 함수를 말한다.
 

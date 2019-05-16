@@ -7,7 +7,7 @@ comments: true
 
 .
 
-#### # 학습 시 참고 URL : https://gitlab.com/radajin
+#### 그림, 실습코드 등 학습자료 출처 : https://gitlab.com/radajin
 
 ### # awscli 설치
 

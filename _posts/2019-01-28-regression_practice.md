@@ -7,7 +7,7 @@ comments: true
 
 선형회귀모형 관련 연습문제 풀이
 
-#### # 학습 시 참고한 URL : https://datascienceschool.net
+#### 그림, 실습코드 등 학습자료 출처 : https://datascienceschool.net
 
 ### 1. 다음은 경력과 연봉간의 관계를 조사한 데이터이다. 차후 나오는 문제들에 대한 풀이를 하시오
 

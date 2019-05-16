@@ -7,7 +7,7 @@ comments: true
 
 뉴욕 레스토랑 데이터 기반 선형회귀 연습문제 풀이
 
-#### # 학습 시 참고한 URL : https://datascienceschool.net
+#### 그림, 실습코드 등 학습자료 출처 : https://datascienceschool.net
 
 - 문제 : price는 가격을 나타내고, food, decor, service 열은 각각 음식, 데코, 서비스를 평가한 점수이며 east는 위치를 나타내는 더미변수이다. 이 데이터를 대상으로 다음 문제를 풀어라. 유의수준은 5%로 한다.
 
