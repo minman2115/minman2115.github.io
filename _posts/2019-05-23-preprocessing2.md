@@ -264,9 +264,8 @@ print(data.loc[3:5], '\n')
     5    c
     dtype: object 
     
-    
 
- #### 12. 집계함수(dataframe.describe())
+#### 12. 집계함수(dataframe.describe())
 
 기초통계량 활용방안
 
