@@ -1,13 +1,13 @@
 ﻿---
 layout: post
-title: "'동물보호센터 유기동물 최종 처분결과' 예측 모델링"
+title: "동물보호센터 구조동물 최종 처분결과 예측 모델링 수행결과"
 tags: [Classification, 팀프로젝트]
 comments: true
 ---
 
-Classification 팀프로젝트 결과
+.
 
-# Shelter Animal Outcomes Classification
+## 동물보호센터 구조동물 최종 처분결과 예측 모델링 수행결과
 
 # 1. 개요
 
