@@ -276,7 +276,7 @@ temp['win_rate'].sort_values(ascending=[False])
 
 레버리지와 잔차의 크기가 모두 큰 데이터들을 아웃라이어로 판단하고자 하는데 통상 잔차와 레버리지를 동시에 보기위한 기준으로는 Cook's Distance가 있다. 결론적으로 Cook's Distance 지표를 이용하여 Fox' Outlier Recommendation를 적용하여 아래 수식을 충족하는 데이터를 아웃라이어로 판단
 
-$$ D_i > \dfrac{4}{N − K - 1} $$
+$$\ D_i > \dfrac{4}{N − K - 1} $$
 
 
 ```python
