@@ -561,47 +561,7 @@ vif["features"] = df2.columns
 vif.sort_values(["VIF Factor"], ascending=[False])
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>VIF Factor</th>
-      <th>features</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>57.315397</td>
-      <td>ERA</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>57.315397</td>
-      <td>OPS</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
+![6](https://user-images.githubusercontent.com/41605276/59485404-ab400a80-8eb0-11e9-8e9b-720eddb1be6a.png)
 
 #### STEP 5) 모델링 및 모델평가
 
