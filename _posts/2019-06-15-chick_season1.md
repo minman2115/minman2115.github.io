@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "칰러닝(시즌1) 프로젝트 결과"
-tags: Classification, 개인프로젝트]
+tags: [Classification, 개인프로젝트]
 comments: true
 ---
 
