@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: "차원의 저주 문제"
+title: "차원의 저주 문제 2-1"
 tags: [데이터전처리]
 comments: true
 ---
