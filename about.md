@@ -11,3 +11,5 @@ permalink: /about/
 ### Contact me
 
 [minman2115@gmail.com](mailto:email@domain.com)
+
+[kr.linkedin.com/in/minman2115]
