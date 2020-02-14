@@ -12,4 +12,4 @@ permalink: /about/
 
 [minman2115@gmail.com](mailto:email@domain.com)
 
-[kr.linkedin.com/in/minman2115]
+kr.linkedin.com/in/minman2115
