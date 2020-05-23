@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "'scrapy'를 이용한 프리미어리거 개인통산기록 웹크롤링"
-tags: [개인프로젝트, 웹크롤링]
+tags: [Data Engineering]
 comments: true
 ---
 
-웹크롤링 토이프로젝트 결과
-- 'scrapy'를 이용한 프리미어리거 개인통산기록(출전수, 도움 등 일부기록) 웹크롤링 수행
+.
+
+- 'scrapy'를 이용한 프리미어리거 개인통산기록(출전수, 도움 등 일부기록) 웹크롤링 구현
 
 
 ```python
