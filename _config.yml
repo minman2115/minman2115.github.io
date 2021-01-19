@@ -30,19 +30,19 @@ navigation:
     url: https://github.com/minman2115
 
 # Pagination
-paginate: 5
+paginate: 10
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email:
+  email: minman2115@gmail.com
   facebook:
   flickr:
-  github: minman2115
+  github: https://github.com/minman2115
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
-  linkedin:
+  linkedin: https://kr.linkedin.com/in/minman2115
   pinterest:
   rss: # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -51,7 +51,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: © 2020 Minsu Park Now
+footer-text: © 2021 Minsu Park Now
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
