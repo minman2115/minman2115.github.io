@@ -24,7 +24,7 @@ URL : https://www.fastcampus.co.kr/dev_online_algo
 코드를 다 연습장에서 짜고, 컴퓨터에서는 타이핑으로 옮겨서 테스트한다는 것으로 생각하면 된다.
 
 <div class="alert alert-block alert-info">
-<center><strong><font size=4em>알고리즘 연습 방법</font></strong></center>
+<center><strong><font size=4em>노트필기를 활용한 연습방법</font></strong></center>
 
 <font size=3em>STEP 1) 알고리즘 문제를 읽고 분석해서 연습장에 작성한다</font><br><br>
 <font size=3em>STEP 2) 간단하게 테스트용으로 매우 간단한 경우부터 알고리즘을 짜보고, 복잡한 경우의 순으로 생각해보면서, 연습장과 펜을 이용하여 알고리즘을 구상한다.</font><br><br>
