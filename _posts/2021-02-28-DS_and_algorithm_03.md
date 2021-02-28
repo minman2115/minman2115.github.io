@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "알고리즘 연습방법 - 패캠 알고리즘&기술면접 인강"
+title: "알고리즘 연습방법"
 tags: [Python, 자료구조 알고리즘]
 comments: true
 ---
