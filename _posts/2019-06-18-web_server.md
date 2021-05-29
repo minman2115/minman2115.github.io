@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "텍스트 데이터 토픽 분류 서비스를 제공하는 웹서버 구현결과"
-tags: [Data Engineering, 개인프로젝트]
+tags: [Data Engineering, 토이프로젝트]
 comments: true
 ---
 

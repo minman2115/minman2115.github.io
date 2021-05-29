@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "스케쥴러를 이용한 네이버 실시간 검색어 순위 데이터수집 AWS 서버 구현결과"
-tags: [Data Engineering, 개인프로젝트]
+tags: [Data Engineering, 토이프로젝트]
 comments: true
 ---
 

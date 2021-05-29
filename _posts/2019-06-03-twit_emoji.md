@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "트위터 스트리밍 데이터 실시간 감성분석 시스템 구현결과"
-tags: [Data Engineering, 개인프로젝트]
+tags: [Data Engineering, 토이프로젝트]
 comments: true
 ---
 
