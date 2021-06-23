@@ -47,7 +47,7 @@ start_time = 0
 
 end_time = max(times) * n  
 
-step 2) start_time ~ end_time 전구간을 이진탐색하는데 승객들을 전부 커버가능한 범위에서 최소의 time을 구하는게 목적이었다.
+step 2) start_time ~ end_time 전구간을 이진탐색하는데 승객들을 전부 커버가능한 범위에서 최소의 time을 구하도록 구현한다.
 
 
 ```python
