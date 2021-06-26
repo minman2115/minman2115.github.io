@@ -133,7 +133,7 @@ def solution(record):
             name=elem.split(" ")[2]
             id_dict[uid]=name
         else:
-            raise AssertionError
+            raise Exception('action 카테고리가 올바르지 않습니다.')
     
     print(id_dict)
     print("*"*100)
