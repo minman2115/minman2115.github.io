@@ -35,7 +35,7 @@ Coding_test_training(20220202)
 ### (2) 손코딩
 
 ```text
-for index in range(데이터길이-1):     <-- 데이터 대소비교 횟수 : 데이터길이 -1
+for index in range(데이터길이-1):     <-- 데이터 대소비교 횟수 : 데이터길이
     swap = False
     for index2 in range(데이터길이-index-1):    <-- 데이터 대소비교 반복 횟수 : 데이터길이 - index -1
         if 앞데이터 > 뒤데이터:                   <-- 제일 큰 데이터가 가장 오른쪽으로 가기 때문에 대소 비교 반복횟수는 1씩 감소함
