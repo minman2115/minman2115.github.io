@@ -7,7 +7,7 @@ comments: true
 
 .
 
-Coding_test_training(20220202)
+Coding_test_training(20220205)
 
 [학습자료]
 
@@ -137,7 +137,7 @@ index2 :  1
 sorted_data :  [0, 3, 7, 8]
 ```
 
-### (4) 빅오
+- 빅오
 
 반복문이 두개 이므로 n 제곱임
 
