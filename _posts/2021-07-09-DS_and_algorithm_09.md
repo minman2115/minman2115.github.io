@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python class 기초개념"
+title: "Python 클래스 기본개념 2-3"
 tags: [Python]
 comments: true
 ---
@@ -12,6 +12,17 @@ comments: true
 "점프 투 파이썬" 클래스 자료를 읽고 공부한 내용입니다. 
 
 URL : https://wikidocs.net/28
+
+[관련자료]
+
+(1) Python 클래스 기본개념 1-3
+
+https://minman2115.github.io/python_DS14
+
+(2) Python 클래스 관련 기본개념 3-3
+
+https://minman2115.github.io/python_DS12
+
 
 [학습내용]
 
