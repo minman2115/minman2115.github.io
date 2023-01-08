@@ -30,7 +30,7 @@ navigation:
     url: https://github.com/minman2115
 
 # Pagination
-paginate: 10
+paginate: 25
 
 # Includes an icon in the footer for each username you enter
 footer-links:
