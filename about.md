@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: 블로그 소개
 permalink: /about/
 ---
 
-개인적인 학습을 위한 블로그 입니다.
-
-Contact : minman2115@gmail.com
+개인적인 공부를 위해서 운영하고 있는 블로그 입니다.
